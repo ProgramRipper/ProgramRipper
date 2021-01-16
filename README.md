@@ -11,7 +11,7 @@ My Project:
 <br>
 [![LeetCodeCN-Problem-Crawler](https://github-readme-stats.vercel.app/api/pin/?username=ProgramRipper&repo=LeetCodeCN-Problem-Crawler)](https://github.com/ProgramRipper/LeetCodeCN-Problem-Crawler)
 <br>
-The Project I Join:
+The Project I Contributed To:
 <br>
 [![bilibili-API-collect](https://github-readme-stats.vercel.app/api/pin/?username=ProgramRipper&repo=bilibili-API-collect)](https://github.com/ProgramRipper/bilibili-API-collect)
 <br>
