@@ -6,7 +6,6 @@
 <br>
 My Project:
 <br>
-[![BPI](https://github-readme-stats.vercel.app/api/pin/?username=ProgramRipper&repo=BPI)](https://github.com/ProgramRipper/BPI)
 [![bilibili-Auto-msg](https://github-readme-stats.vercel.app/api/pin/?username=ProgramRipper&repo=bilibili-Auto-msg)](https://github.com/ProgramRipper/bilibili-Auto-msg)
 <br>
 [![LeetCodeCN-Problem-Crawler](https://github-readme-stats.vercel.app/api/pin/?username=ProgramRipper&repo=LeetCodeCN-Problem-Crawler)](https://github.com/ProgramRipper/LeetCodeCN-Problem-Crawler)
@@ -22,7 +21,7 @@ Power By [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stat
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: The API of BiliBili, based on Python.
-- 🌱 I’m currently learning: Python, C++ and Html.
+- 🌱 I’m currently learning: Python, C++, Html and JavaScript.
 - 🤔 I’m looking for help with: Front-end programming.
 - 💬 Ask me about: Whatever you want to ask. I will try my best to answer you.
 - 📫 How to reach me: QQ:2892771624 or email:ProgramRipper@foxmail.com
