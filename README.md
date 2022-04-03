@@ -1,30 +1,33 @@
-### Just Be Who You Wanna Be
+# Just Be Who You Wanna Be
+## Hi! Here is ProgramRipper!
+Actually, My English name is `Bryan`. But please call me `ProgramRipper` or abbr `PR` when talking about code, especially on GitHub.
 
+If you have any problem about code, contact me by [ProgramRipper@foxmail.com](mailto:ProgramRipper@foxmail.com).
+
+If you want to know more about me, please read on! 
+
+## Code for fun!
+I am a Chinese Senior 3 student. Learning code as a hobby.
+
+If you love something more than my code, you can find me under the name `Bryan不可思议` on other platforms, such as [QQ](https://qm.qq.com/cgi-bin/qm/qr?k=h60CBLMAtBE5GBkNndi59m8H74tTA2qa&noverify=0), [BiliBili](https://space.bilibili.com/160148624) (well...this BiliBili account has been banned forever, please contact [this account](https://space.bilibili.com/1087319369) instead) and [Twitter](https://twitter.com/ProgramRipper).
+
+Welcome to be my friend not only on GitHub but also on these platforms.
+
+## What am I doing?
+Maintaining ...
+- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) (though I didn't contribute anything to it recently), and...
+- [Graia Project](https://github.com/GraiaProject) (especially its brand new next generation project —— [Avilla](https://github.com/GraiaProject/Avilla)).
+
+Learning...
+- Python (for deeper knowledge)
+- C/C++ (cause they say necessary)
+- Go (I like it! Faster than Py, Easier than C)
+- Frontend Language (HTML, JavaScript, CSS...)
+
+Busying..
+- Preparing for GaoKao (or College Entrance Examination)
+
+##
 ![ProgramRipper's  stats](https://github-readme-stats.vercel.app/api?username=ProgramRipper&show_icons=true&count_private=true&theme=dark)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramRipper&theme=dark)
-<br>
-My Project:
-<br>
-[![bilibili-Auto-msg](https://github-readme-stats.vercel.app/api/pin/?username=ProgramRipper&repo=bilibili-Auto-msg&theme=dark)](https://github.com/ProgramRipper/bilibili-Auto-msg)
-<br>
-[![LeetCodeCN-Problem-Crawler](https://github-readme-stats.vercel.app/api/pin/?username=ProgramRipper&repo=LeetCodeCN-Problem-Crawler&theme=dark)](https://github.com/ProgramRipper/LeetCodeCN-Problem-Crawler)
-<br>
-The Project I Contributed To:
-<br>
-[![bilibili-API-collect](https://github-readme-stats.vercel.app/api/pin/?username=ProgramRipper&repo=bilibili-API-collect&theme=dark)](https://github.com/ProgramRipper/bilibili-API-collect)
-<br>
-Power By [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**ProgramRipper/ProgramRipper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on: The API of BiliBili, based on Python.
-- 🌱 I’m currently learning: Python, C++, Html and JavaScript.
-- 🤔 I’m looking for help with: Front-end programming.
-- 💬 Ask me about: Whatever you want to ask. I will try my best to answer you.
-- 📫 How to reach me: QQ:2892771624 or email:ProgramRipper@foxmail.com
-- ⚡ Fun fact: I am a high school student. Is this fun? Hhh...
-- Very surprised that you can find this! And THANKS!
--->
+###### Power By [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
