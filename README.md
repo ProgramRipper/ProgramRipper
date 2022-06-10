@@ -7,7 +7,7 @@ If you have any problem about code, contact me by [ProgramRipper@foxmail.com](ma
 If you want to know more about me, please read on! 
 
 ## Code for fun!
-I am a Chinese Senior 3 student. Learning code as a hobby.
+I was a Chinese Senior 3 student. Learning code as a hobby.
 
 If you love something more than my code, you can find me under the name `Bryan不可思议` on other platforms, such as [QQ](https://qm.qq.com/cgi-bin/qm/qr?k=h60CBLMAtBE5GBkNndi59m8H74tTA2qa&noverify=0), [BiliBili](https://space.bilibili.com/160148624) (well...this BiliBili account has been banned forever, please contact [this account](https://space.bilibili.com/1087319369) instead) and [Twitter](https://twitter.com/ProgramRipper).
 
@@ -25,7 +25,7 @@ Learning...
 - Frontend Language (HTML, JavaScript, CSS...)
 
 Busying..
-- Preparing for GaoKao (or College Entrance Examination)
+- None (Exactly, I am planning my happy summer holidays!)
 
 ##
 ![ProgramRipper's  stats](https://github-readme-stats.vercel.app/api?username=ProgramRipper&show_icons=true&count_private=true&theme=dark)
