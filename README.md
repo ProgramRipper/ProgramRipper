@@ -20,12 +20,12 @@ Maintaining ...
 
 Learning...
 - Python (for deeper knowledge)
-- C/C++ (cause they say necessary)
-- Go (I like it! Faster than Py, Easier than C)
+- C (cause they say necessary)
+- Rust (an amazing language)
 - Frontend Language (HTML, JavaScript, CSS...)
 
 Busying..
-- None (Exactly, I am planning my happy summer holidays!)
+- [BroadcastLV](https://github.com/ProgramRipper/BroadcastLV)
 
 ##
 ![ProgramRipper's  stats](https://github-readme-stats.vercel.app/api?username=ProgramRipper&show_icons=true&count_private=true&theme=dark)
