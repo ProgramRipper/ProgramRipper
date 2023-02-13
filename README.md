@@ -2,7 +2,7 @@
 ## Hi! Here is ProgramRipper!
 Actually, My English name is `Bryan`. But please call me `ProgramRipper` or abbr `PR` when talking about code, especially on GitHub.
 
-If you have any problem about code, contact me by [ProgramRipper@foxmail.com](mailto:ProgramRipper@foxmail.com).
+If you have any problem about code, contact me by [programripper@foxmail.com](mailto:programripper@foxmail.com).
 
 If you want to know more about me, please read on! 
 
