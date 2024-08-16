@@ -1,4 +1,4 @@
-_Souls with the same background will eventually gather in this sea._
+_Souls with the same color will eventually gather in this sea._
 
 _底色相同的灵魂，终会在这片海域相聚。_
 
