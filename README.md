@@ -1,33 +1,33 @@
-# Just Be Who You Wanna Be
-## Hi! Here is ProgramRipper!
-Actually, My English name is `Bryan`. But please call me `ProgramRipper` or abbr `PR` when talking about code, especially on GitHub.
+_Souls with the same background will eventually gather in this sea._
+
+_底色相同的灵魂，终会在这片海域相聚。_
+
+# Hi! Here is ProgramRipper!
+
+You can call me `ProgramRipper` or abbr `PR`, though my actual (only used offline) English name is `Bryan`.
 
 If you have any problem about code, contact me by [programripper@foxmail.com](mailto:programripper@foxmail.com).
 
 If you want to know more about me, please read on! 
 
 ## Code for fun!
-I am a Chinese freshman. Learning code as a hobby.
 
-If you love something more than my code, you can find me under the name `Bryan不可思议` on other platforms, such as [QQ](https://qm.qq.com/cgi-bin/qm/qr?k=h60CBLMAtBE5GBkNndi59m8H74tTA2qa&noverify=0), [BiliBili](https://space.bilibili.com/160148624) (well...this BiliBili account has been banned forever, please contact [this account](https://space.bilibili.com/1087319369) instead) and [Twitter](https://twitter.com/ProgramRipper).
+I am a Chinese college student, learning code as a hobby.
 
-Welcome to be my friend not only on GitHub but also on these platforms.
+If you love something more than my code, you can find me under the name `Bryan不可思议` or `ProgramRipper` on other platforms, such as [QQ](https://qm.qq.com/q/nFBuMRWUSc), [BiliBili](https://space.bilibili.com/1087319369) and [Twitter](https://twitter.com/ProgramRipper).
+
+Welcome to be my friend not only on GitHub!
 
 ## What am I doing?
-Maintaining ...
-- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) (though I didn't contribute anything to it recently), and...
-- [Graia Project](https://github.com/GraiaProject) (especially its brand new next generation project —— [Avilla](https://github.com/GraiaProject/Avilla)).
+
+- [NoneBot](https://github.com/nonebot) member, specifically maintaining [plugin-orm](https://github.com/nonebot/plugin-orm)
+- [Hanabi_Live](https://hanabi-live.com) tech support, a VTuber project on [BiliBili](https://space.bilibili.com/3546602868312291)
 
 Learning...
-- Python (for deeper knowledge)
-- C (cause they say necessary)
-- Rust (an amazing language)
-- Frontend Language (HTML, JavaScript, CSS...)
 
-Busying..
-- [BroadcastLV](https://github.com/ProgramRipper/BroadcastLV)
+- Python (for deeper knowledge), JavaScript (Vue and Nuxt)
+- C (cause they say necessary)
+- Rust (for the Nth time)
 
 ##
 ![ProgramRipper's  stats](https://github-readme-stats.vercel.app/api?username=ProgramRipper&show_icons=true&count_private=true&theme=dark)
-
-###### Power By [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
