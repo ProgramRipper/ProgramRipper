@@ -25,9 +25,9 @@ Welcome to be my friend not only on GitHub!
 
 Learning...
 
-- Python (for deeper knowledge), JavaScript (Vue and Nuxt)
-- C (cause they say necessary)
-- Rust (for the Nth time)
+- Python (web, machine learning)
+- JavaScript/TypeScript (Vue/Nuxt)
+- C/C++ (embedded system)
 
 ##
 ![ProgramRipper's  stats](https://github-readme-stats.vercel.app/api?username=ProgramRipper&show_icons=true&count_private=true&theme=dark)
