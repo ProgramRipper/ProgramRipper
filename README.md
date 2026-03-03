@@ -8,7 +8,7 @@ You can call me `ProgramRipper` or abbr `PR`, though my actual (only used offlin
 
 If you have any problem about code, contact me by [programripper@foxmail.com](mailto:programripper@foxmail.com).
 
-If you want to know more about me, please read on! 
+If you want to know more about me, please read on!
 
 ## Code for fun!
 
@@ -30,4 +30,5 @@ Learning...
 - C/C++ (embedded system)
 
 ##
-![ProgramRipper's  stats](https://github-readme-stats.vercel.app/api?username=ProgramRipper&show_icons=true&count_private=true&theme=dark)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ProgramRipper&rank_icon=percentile&hide_title=true&show_icons=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=ProgramRipper&rank_icon=percentile&hide_title=true&show_icons=true&theme=github_dark_dimmed)
