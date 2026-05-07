@@ -20,6 +20,7 @@ Welcome to be my friend not only on GitHub!
 
 ## What am I doing?
 
+- [Baidu](https://baidu.com) Business Platform & IT FE (frontend engineer)
 - [NoneBot](https://github.com/nonebot) member, specifically maintaining [plugin-orm](https://github.com/nonebot/plugin-orm)
 - [Hanabi_Live](https://hanabi-live.com) tech support, a VTuber project on [BiliBili](https://space.bilibili.com/3546602868312291)
 
